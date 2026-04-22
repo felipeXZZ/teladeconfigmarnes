@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Settings</string>
+        <string name="settings_icon_description">Settings</string>
+        <string name="settings_consent">Accept non-essential cookies?</string>
+        <string name="settings_mobile_data">Download using mobile data?</string>
+        <string name="settings_text_size">Set or update linear value:</string>
+        <string name="sign_out">Sign out</string>
+        <string name="alert_title">Sign out</string>
+        <string name="alert_message">Are you sure you want to sign out?</string>
+        <string name="ok">OK</string>
+        <string name="cancel">Cancel</string>
+        <string name="payment_method">Preferred payment method</string>
+        <string name="settings_profile_image">Profile Image</string>
+        <string name="paypal">Paypal</string>
+        <string name="credit_card">Credit Card</string>
+        <string name="bank_transfer">Bank Transfer</string>
+</resources>
